@@ -1,6 +1,6 @@
 [package]
 name = "sophahum/astro-starter-c27"
-version = "0.2.4"
+version = "0.2.8"
 description = "Astro.dev Wasmer starter package"
 readme = "README.md"
 repository = "https://github.com/SophaHum/astro-starter-c27"
